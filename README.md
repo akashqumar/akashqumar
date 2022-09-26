@@ -24,15 +24,15 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" color="white" /> </a> 
 <a href="https://nextjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" backgroundcolor="white"/> </a> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jagmohan-Dixit&count_private=true&theme=cobalt)](#)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagmohan-Dixit&theme=dark" alt="singhsduos" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jagmohan-Dixit&show_icons=true&locale=en&theme=dark" alt="Jagmohan Dixit" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashqumar&count_private=true&theme=cobalt)](#)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashqumar&theme=dark" alt="singhsduos" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashqumar&show_icons=true&locale=en&theme=dark" alt="akashqumar" />
 
 
 
 
 <!--
-**Jagmohan-Dixit/Jagmohan-Dixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jagmohan-Dixit/akashqumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
 
